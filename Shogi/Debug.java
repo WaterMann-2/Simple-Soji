@@ -1,3 +1,8 @@
+/*
+I REALLY Like Unity's Debug.log,
+so I decided to use it over System.out.println
+*/
+
 public class Debug {
     public static void log(String statement){
         System.out.println(statement);

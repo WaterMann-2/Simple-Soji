@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 import java.awt.*;
-
+//Main excecutable, Wanted to have a different name other then Main, so decided to do "Programme"
 public class Programme {
 
     public static JFrame generateGrid(int winWidth, int winHeight, int gridWidth, int gridHeight , int xOffset, int yOffset){

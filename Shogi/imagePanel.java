@@ -5,6 +5,8 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
+// Attempting to use a public class so create game peices on the board (None of this is my code, yet)
+
 public class imagePanel extends JPanel {
 
     private BufferedImage image;
